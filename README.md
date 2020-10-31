@@ -1,4 +1,4 @@
-    Language : C, C++, (C#, JAVA, Python, Rust))
+    Language : C, C++, (C#, JAVA, Python, Rust)
     
     Interested in : (Parallel) Parsing, Data Structure, Rust
     
