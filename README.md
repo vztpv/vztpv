@@ -2,6 +2,6 @@
     
     Interested in : (Parallel) Parsing, Data Structure, Rust
     
-    To Do : ClauParser, ClauExplorer
+    To Do : learning js, and ts.
     
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vztpv)](https://hits.seeyoufarm.com)                      
