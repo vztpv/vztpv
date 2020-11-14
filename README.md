@@ -2,6 +2,8 @@
     
     Interested in : (Parallel) Parsing, Data Structure, Rust
     
-    To Do : Learning js, and ts.
-    
+    To Do :
+        1. ClauLint Project (key = data and focus on checking data)
+        2. Learning js, and ts.
+       
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vztpv)](https://hits.seeyoufarm.com)                      
