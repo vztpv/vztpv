@@ -1,6 +1,6 @@
-    Language : C, C++, (C#, JAVA, Python, Rust)
+    Language : C, C++
     
-    Interested in : (Parallel) Parsing, Data Structure, Rust
+    Interested in : (Parallel) Text Parsing, Data Structure, Language Server (for vscode)
     
     To Do :
         1. ClauLint Project (key = data and focus on checking data)
