@@ -1,6 +1,6 @@
     Language : C, C++
     
-    Interested in : (Parallel) Text Parsing, Data Structure, Language Server (for vscode)
+    Interested in : (Parallel) Text Parsing, Data Structure, Programming Language (F#?)
     
     To Do :
         ReadOnly ClauParser
