@@ -9,5 +9,5 @@
                                                  and Merge (Vector of ItemType and Vector of UserType*)
         2. Language Design : More(?) C++ Style, Query-like?, Handles "Paradox Game Save Data Style + line comment",
                                                  and Supports Array Type?
-        3. VM Design : Using ClauParser++. Study "Crafting Interpreters"
+        3. VM Design : Using ClauParser++. and Study "Crafting Interpreters"
         4. will be Used for : ClauExplorer, ClauLint, ... 
