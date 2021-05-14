@@ -3,3 +3,9 @@
     Interested in : (Parallel, using thread) Text Parsing, Data Structure, Programming Language
 
     Goal : ClauScript++ (Using VM, and ClauParser)
+
+    ToDo :  
+        1. ClauParser -> ClauParser++(가제) : Token <- includes line info, bug fix, and merge (Vector of ItemType and Vector of UserType)
+        2. Language Design : More(?) C++ Style, Query-like?, Handles "Paradox Game Save Data Style + line comment", and Supports Array Type?
+        3. VM Design : Using ClauParser++ 
+        4. will be Used for : ClauExplorer, ClauLint, ... 
