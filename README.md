@@ -5,8 +5,8 @@
     Goal : ClauScript++ (Using VM, and ClauParser)
 
     ToDo :  
-        1. ClauParser -> ClauParser++(가제) : Token <- includes line info, bug fix,
-                                                 and merge (Vector of ItemType and Vector of UserType)
+        1. ClauParser -> ClauParser++(가제) : Token <- Includes line info, bug fix,
+                                                 and Merge (Vector of ItemType and Vector of UserType)
         2. Language Design : More(?) C++ Style, Query-like?, Handles "Paradox Game Save Data Style + line comment",
                                                  and Supports Array Type?
         3. VM Design : Using ClauParser++ 
