@@ -11,3 +11,5 @@
                                                  and Supports Array Type?
         3. VM Design : Using ClauParser++. SmartPtr(Shared, Weak) and Study "Crafting Interpreters"
         4. will be Used for : ClauExplorer, ClauLint, ... 
+        
+        5. ClauExplorer C# version?
