@@ -5,6 +5,5 @@
     Now Interested Repository : simdjson, rapidjson, boost/json, yyjson
     
    # To Do
-1. using simdclaujson, make my own json explorer.
-2. Renewal in simdjson part
-3. make language to edit json.
+1. more test for SimdClauJson.
+2. make language to edit json.
