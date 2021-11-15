@@ -6,4 +6,4 @@
     
    # To Do
 1. more tests for SimdClauJson2 (claujson).
-2. make language to edit json.
+2. make language to edit json - Json Script
