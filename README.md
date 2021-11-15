@@ -5,5 +5,5 @@
     Now Interested Repository : simdjson, rapidjson, boost/json, yyjson
     
    # To Do
-1. more test for SimdClauJson.
+1. more tests for SimdClauJson2 (claujson).
 2. make language to edit json.
