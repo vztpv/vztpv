@@ -4,3 +4,5 @@
                                       faster than scj. 
                              2. socket programming with wsl, windows.
                              3. intro to logic?
+                             4. C++17 pmr to parsing?
+                            
