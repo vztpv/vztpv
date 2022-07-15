@@ -6,3 +6,5 @@
                              3. intro to logic?
                              4. C++17 pmr to parsing?
                              5. scalar + functional programming.?
+                             6. golang?
+                           
