@@ -4,6 +4,7 @@
     
                              2. socket programming with wsl, windows.
                              3. linux system programming.
+                            
                              4. intro to logic?
                              5. C++17 pmr to parsing?
                              6. scalar + functional programming.?
