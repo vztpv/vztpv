@@ -5,3 +5,4 @@
                                 - log, exception ?
                              2. abstract algebra
                              3. coding test
+                             4. sicp
