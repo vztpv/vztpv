@@ -7,3 +7,4 @@
                              3. coding test
                              4. sicp
                              5. front-end (web)
+                             6. golang
