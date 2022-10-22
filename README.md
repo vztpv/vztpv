@@ -8,3 +8,4 @@
                              4. sicp
                              5. front-end (web)
                              6. golang
+                             7. victoria3 (game)
