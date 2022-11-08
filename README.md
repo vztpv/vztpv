@@ -7,4 +7,4 @@
                           //   3. coding test
                           //   4. sicp
                              5. front-end (web)
-                             6. victoria3 (game)
+                             6. golang, go port of simdjson.
