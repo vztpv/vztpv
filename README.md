@@ -3,5 +3,4 @@
     Now Interested Subject : 
                              1. scj3 - claujson (experimental? parallel json parser, using simdjson and multi-thread.)
                                 - log, exception, proof, test?
-                             2. C-study
-                             3. C#-study
+                            
