@@ -4,11 +4,9 @@
                              1. scj3 - claujson (experimental? parallel json parser, using simdjson and std::thread.)
                                 
                              2. json-structure analyzer ?
-                             
-                             3. Lock-free Data Structure ?
+               
+                             3. jq ? 
                              
                              4. clau-script ?
 
-                             5. jq ? 
-
-                             6. compile time json parser ?
+                             5. compile time json parser ?
