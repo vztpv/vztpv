@@ -8,3 +8,7 @@
                              3. Lock-free Data Structure ?
                              
                              4. clau-script ?
+
+                             5. jq ? 
+
+                             6. compile time json parser ?
