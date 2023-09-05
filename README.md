@@ -11,4 +11,6 @@
 
                              5. compile time json parser ?
 
-                             6. rust, golang
+                             6. rust, golang, java?
+
+                             7. claujson-java?
