@@ -6,11 +6,7 @@
                              2. json-structure analyzer ?
                
                              3. jq ? 
+
+                             4. compile time json parser ?
                              
-                             4. clau-script ?
-
-                             5. compile time json parser ?
-
-                             6. rust, golang, java?
-
-                             7. claujson-java?
+                             5. claujson-java?
