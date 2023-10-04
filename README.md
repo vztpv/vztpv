@@ -3,12 +3,10 @@
     Now Interested Subject : 
                              1. scj3 - claujson (experimental? parallel json parser, using simdjson and std::thread.)
                                 
-                             2. json-structure analyzer ?
-               
-                             3. jq ? 
-
-                             4. compile time json parser ?
+                             2. jq ? 
+                              
+                             3. lisp, scheme?
                              
-                             5. claujson-java?
+                             4. claujson-java?
 
-                             6. lisp, scheme?
+                            
