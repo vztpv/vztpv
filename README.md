@@ -6,4 +6,6 @@
                                  
                              2. crafting interpreters book
 
-                             3. Myers string diff ?
+                             3. no-simd-json? (simdjson only fallback code?)
+                            
+                             4. Myers string diff ?
