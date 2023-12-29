@@ -6,12 +6,4 @@
                                 
                             crafting interpreters book
                 
-                            no-simd-json? (simdjson only fallback code?)
-                            
-                            Myers string diff ?
-
-                            Java?
-
-                            Golang?
-
-                            Rust?
+                            boost json
