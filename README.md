@@ -7,3 +7,5 @@
                             crafting interpreters book
                 
                             boost json
+
+                            rust
