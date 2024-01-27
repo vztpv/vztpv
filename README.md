@@ -10,6 +10,8 @@
 
                             rust
 
-                            java (waiting simdjson-java stable? release?)
+                            java 
+                            
+                            claujson-java (waiting simdjson-java stable? release?)
                             
                             diff for json?
