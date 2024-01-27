@@ -10,6 +10,6 @@
 
                             rust
 
-                            java
+                            java (waiting simdjson-java stable? release?)
                             
                             diff for json?
