@@ -4,14 +4,12 @@
                             scj3 - claujson (experimental? parallel json parser, using simdjson and std::thread.)
                                  - thread pool?, Document class?, no thread-safe?
                                 
-                            crafting interpreters book
+                            crafting interpreters book 
+
+                            interpreter in go, compiler in go
                 
-                            boost json
+                            web
 
-                            rust
+                            parallel algorithm
 
-                            java 
-                            
-                            claujson-java (waiting simdjson-java stable? release?)
-                            
-                            diff for json?
+                            waiting simdjson-java new? release
