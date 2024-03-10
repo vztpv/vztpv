@@ -2,7 +2,7 @@
     
     Now Interested Subject : 
                             
-                            # 1. vztpv/scj3, claujson + sql?
+                            # 1. vztpv/scj3, claujson + sql?, claujson + java?
                                 # https://www.postgresql.org/docs/current/functions-json.html#FUNCTIONS-JSON-PROCESSING
                             
                             # 2. math 
