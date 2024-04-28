@@ -2,8 +2,8 @@
     
     Now Interested Subject : 
                             
-                            # 1. vztpv/scj3, claujson
-                            # 2. https://github.com/AutomataLab/Pison
-                            # 3. coding test with c++
+                            1. vztpv/scj3, claujson
+                            2. https://github.com/AutomataLab/Pison
+                            3. coding test with c++
                                 
 
