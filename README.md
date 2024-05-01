@@ -4,6 +4,7 @@
                             
                             1. vztpv/scj3, claujson
                             2. https://github.com/AutomataLab/Pison
-                            3. coding test with c++
+                            3. simdjson-java
+                            4. coding test with c++
                                 
 
