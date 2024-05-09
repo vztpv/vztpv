@@ -3,7 +3,7 @@
     Now Interested Subject : 
                             
                             1. vztpv/scj3, claujson
-                            2. 밑바닥부터 배우는 interprter in go (with c++?)
+                            2. 밑바닥부터 배우는 interpreter in go (with c++?)
                             3. coding test with c++
                             4. revisit clau-parser
                             5. https://github.com/AutomataLab/Pison
