@@ -3,9 +3,10 @@
     Now Interested Subject : 
                             
                             1. vztpv/scj3, claujson
-                            2. https://github.com/AutomataLab/Pison
-                            3. simdjson-java
+                            2. 밑바닥부터 배우는 interprter in go (with c++?)
+                            3. coding test with c++
                             4. revisit clau-parser
-                            5. coding test with c++
+                            5. https://github.com/AutomataLab/Pison
+                            6. simdjson-java
                                 
 
