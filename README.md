@@ -2,9 +2,7 @@
     
     Now Interested Subject : 
                             1. vztpv/scj3, claujson
-                            2. with golang
-                            3. with C#
-                            4. todolist? 
-                            (5. with java)
-                                
+                            2. vztpv/myDB
+                            3. sqld
+                            4. front-end (web)
 
