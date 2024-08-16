@@ -2,7 +2,6 @@
     
     Now Interested Subject : 
                             1. vztpv/scj3, claujson
-                            2. vztpv/myDB
-                            3. sqld
-                            4. front-end (web)
+                            2. sqld
+                            3. front-end (web)
 
