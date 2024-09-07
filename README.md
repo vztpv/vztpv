@@ -2,5 +2,4 @@
     
     Now Interesting Topics : 
                             vztpv/scj3, claujson
-                            jq ?
-                            edit or query for json text ?
+                            ClauQuery -> ClauVM ?
