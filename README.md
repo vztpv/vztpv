@@ -2,4 +2,7 @@
     
     Now Interesting Topics : 
                             vztpv/scj3, claujson
+                            data structure ?
+                            array_map ?
+                        --------------------------------
                             ClauQuery -> ClauVM ?
