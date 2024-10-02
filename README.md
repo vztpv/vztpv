@@ -2,7 +2,6 @@
     
     Now Interesting Topics : 
                             vztpv/scj3, claujson
-                            Parallel Scanning (using std::thread)
-                            array_map
+                            Java?
                         --------------------------------
                             ClauQuery -> ClauVM ?
