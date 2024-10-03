@@ -2,6 +2,6 @@
     
     Now Interesting Topics : 
                             vztpv/scj3, claujson
-                            Java?
+                            Java? (simdjson-java?)
                         --------------------------------
                             ClauQuery -> ClauVM ?
