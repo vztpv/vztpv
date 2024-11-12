@@ -3,7 +3,7 @@
     Now Interesting Topics : 
                             rethinking - vztpv/scj3, claujson
                                 - parallel parsing
-                                - parallel stringify (write_file)
+                                - parallel write(_file)
                                 - tree division and merge
                                 - data structure - Splay Tree?, Treap?, Link-Cut Tree?, Graph?
                                 
