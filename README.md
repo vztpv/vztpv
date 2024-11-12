@@ -1,9 +1,9 @@
     Interested in : C, C++, Text Parsing, Data Structure, Programming Language, and Simulation
     
     Now Interesting Topics : 
-                            vztpv/scj3, claujson
-                            ClauVM? with claujson?
-                            tree diffing for json?
-                            Java? (simdjson-java?)
-                        --------------------------------
-                            ClauQuery -> ClauVM ?
+                            rethinking - vztpv/scj3, claujson
+                                - parallel parsing
+                                - parallel stringfy (write_file)
+                                - tree division and merge
+                                - data structure - Splay Tree?, Treap?, Link-Cut Tree?, Graph?
+                                
