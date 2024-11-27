@@ -6,4 +6,4 @@
                                 - parallel write(_file)
                                 - tree division and merge
                                 - data structure - Splay Tree?, Treap?, Link-Cut Tree?, Graph?
-                                - ast -> text (with bfs?, bfs_text -> ast?)
+                                //- ast -> text (with bfs?, bfs_text -> ast?)
