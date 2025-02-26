@@ -4,6 +4,6 @@
                             vztpv/scj3, claujson.
                                 - (GOAL : Using 1 thread, Make as fast as rapidjson)
                             lang to edit json.
-                            javascript. (with minecraft?)
+                            javascript. 
                             socket programming.
                             
