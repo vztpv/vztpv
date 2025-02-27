@@ -3,6 +3,5 @@
     Now Interesting Topics : 
                             vztpv/scj3, claujson.
                             javascript.
-                            lang to edit json.
-                            socket programming.
+                            todolist.
                             
