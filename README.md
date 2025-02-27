@@ -2,8 +2,7 @@
     
     Now Interesting Topics : 
                             vztpv/scj3, claujson.
-                                - (GOAL : Using 1 thread, Make as fast as rapidjson)
+                            javascript.
                             lang to edit json.
-                            javascript. 
                             socket programming.
                             
