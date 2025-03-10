@@ -2,7 +2,7 @@
     
     Now Interesting Topics : 
                             vztpv/scj3, claujson.
-                                memory_pool?
+                                memory_pool? diff and patch?
                             javascript.
                             Data-Oriented Programming book?
                             todolist.
