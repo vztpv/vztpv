@@ -3,7 +3,6 @@
     Now Interesting Topics : 
                             vztpv/scj3, claujson.
                                 memory_pool? diff and patch?
+                                with golang?
                             javascript.
-                            Data-Oriented Programming book?
-                            todolist.
                             
