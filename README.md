@@ -5,5 +5,7 @@
                                 memory_pool? - vztpv/scj3-2
                                 diff and patch?
                                 with golang?
-                            javascript.
+                                - vztpv/ClauVM
+                                - vztpv/editjson
+                            javascript?
                             
