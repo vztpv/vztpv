@@ -1,12 +1,10 @@
     Interested in : C, C++, Text Parsing, Data Structure, Programming Language, and Simulation
     
     Now Interesting Topics : 
-                            vztpv/scj3, claujson.
-                                memory_pool? - vztpv/scj3-2
+                            claujson - vztpv/scj3, 
+                                with memory_pool? - vztpv/scj3-2
                                 diff and patch? - need more time to think...
-                                - vztpv/ClauVM
-                                - vztpv/editjson
-                                with golang?
-                            javascript?
-                            java?
-                            
+                                language? - vztpv/ClauVM, - vztpv/editjson
+                                    - javascript study?
+                                with golang? - experimental code? 
+                                    (When a valid token array is given, an AST is created using threads)                           
