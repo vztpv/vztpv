@@ -7,4 +7,4 @@
                                 language? - vztpv/ClauVM, - vztpv/editjson
                                     - javascript study?
                                 with golang? - experimental code? 
-                                    (When a valid token array is given, an AST is created using threads)                           
+                                    (When a valid token array is given, an AST is created using threads)            
