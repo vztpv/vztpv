@@ -13,3 +13,5 @@
                                 - c version (book)
                                 - c++ version (my?, goal)
                                 - rust version (my?, goal)
+
+                            3. JsonLint? my own schema validator?
