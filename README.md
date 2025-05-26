@@ -14,4 +14,6 @@
                                 - c++ version (my?, goal)
                                 - rust version (my?, goal)
 
-                            3. JsonLint? my own schema validator?
+                            3. JsonLint? my own json schema validator?
+                            
+                            4. jq style DSL -> C++ Code?
