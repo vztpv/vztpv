@@ -1,7 +1,7 @@
     Interested in : C, C++, Text Parsing, Data Structure, Programming Language, and Simulation
     
     Now Interesting Topics : 
-                            1. claujson - vztpv/scj3, 
+                            1. Parallel Json Parser using Thread - vztpv/scj3, (claujson)
                                 with memory_pool? - vztpv/scj3-2
                                     
                             2. Study "Crafting Interpreters" - book
