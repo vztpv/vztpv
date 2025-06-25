@@ -12,3 +12,5 @@
                             4. my own chat(network?)?
 
                             5. my lisp?
+
+                            6. Parallel Json (Diff and Patch)?
