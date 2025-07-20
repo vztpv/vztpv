@@ -5,12 +5,10 @@
                                 with memory_pool? - vztpv/scj3-2
                                     
                             2. Study "Crafting Interpreters" - book
-                                - c++ version (my?, goal)
+                                - c++ version (my?, goal - lang to edit json.)
                                 
                             3. my own Tokenizer for json? - vztpv/Parallel-Scanning-Test
 
                             4. my own chat(network?)?
 
-                            5. my lisp?
-
-                            6. Parallel Json (Diff and Patch)?
+                            5. Parallel Json (Diff and Patch)?
