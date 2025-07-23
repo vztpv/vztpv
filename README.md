@@ -3,12 +3,12 @@
     Now Interesting Topics : 
                             1. Parallel Json Parser using Thread - vztpv/scj3, (claujson)
                                 with memory_pool? - vztpv/scj3-2
-                                    
-                            2. Study "Crafting Interpreters" - book
-                                - c++ version (my?, goal - lang to edit json.)
-                                
-                            3. my own Tokenizer for json? - vztpv/Parallel-Scanning-Test
+                                     
+                            2. my own Tokenizer for json? - vztpv/Parallel-Scanning-Test
+                            
+                            3. Study "Crafting Interpreters" - book
+                                - c++ version (vztpv/lox-cpp)
+                            
+                            4. Parallel Json (Diff and Patch)?
 
-                            4. my own chat(network?)?
-
-                            5. Parallel Json (Diff and Patch)?
+                            5. my own chat(network?)?
