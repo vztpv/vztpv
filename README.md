@@ -12,3 +12,5 @@
                             4. Parallel Json (Diff and Patch)?
 
                             5. my own chat(network?)?
+
+                            6. Parallel Deserialization? 
