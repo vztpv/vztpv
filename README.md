@@ -2,7 +2,7 @@
     
     Now Interesting Topics : 
                             1. Parallel Json Parser using Thread - vztpv/scj3, (claujson)
-                                with memory_pool? - vztpv/scj3-2
+                                with memory_pool + recycling? - vztpv/scj3-2
                                      
                             2. my own Tokenizer for json? - vztpv/Parallel-Scanning-Test
                             
