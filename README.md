@@ -5,12 +5,14 @@
                                 with memory_pool + recycling? - vztpv/scj3-2, vztpv/scj3-3
                                      
                             2. my own Tokenizer for json? - vztpv/Parallel-Scanning-Test
+
+                            3. my own memory pool? - vztpv/clau-pool
                             
-                            3. Study "Crafting Interpreters" - book
+                            4. Study "Crafting Interpreters" - book
                                 - c++ version (vztpv/lox-cpp)
                             
-                            4. Parallel Json (Diff and Patch)?
+                            5. Parallel Json (Diff and Patch)?
 
-                            5. my own chat(network?)?
+                            6. my own chat(network?)?
 
-                            6. Parallel Deserialization? 
+                            7. Parallel Deserialization? 
