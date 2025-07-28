@@ -4,10 +4,10 @@
                             1. Parallel Json Parser using Thread - vztpv/scj3, (claujson)
                                 with memory_pool + recycling? - vztpv/scj3-2, vztpv/scj3-3
                                      
-                            2. my own Tokenizer for json? - vztpv/Parallel-Scanning-Test
-
-                            3. my own memory pool? - vztpv/clau-pool
+                            2. my own memory pool? - vztpv/clau-pool
                             
+                            3. my own Tokenizer for json? - vztpv/Parallel-Scanning-Test
+
                             4. Study "Crafting Interpreters" - book
                                 - c++ version (vztpv/lox-cpp)
                             
