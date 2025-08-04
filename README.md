@@ -17,6 +17,6 @@
 
                             7. Parallel Deserialization? 
 
-                            8. json explorer?
+                            8. json explorer? (vztpv/ClauJsonExplorer, vztpv/ClauJsonExplorer2)
 
                             9. JavaScript??
