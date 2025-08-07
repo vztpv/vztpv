@@ -1,8 +1,8 @@
     Interested in : C, C++, Text Parsing, Data Structure, Programming Language, and Simulation
     
     Now Interesting Topics : 
-                            1. Parallel Json Parser using Thread - vztpv/scj3, (claujson)
-                                with memory_pool + recycling? - vztpv/scj3-2, vztpv/scj3-3
+                            1. Parallel Json Parser using Thread - claujson/claujson
+                                with memory_pool + recycling? - claujson/claujson2
                                      
                             2. my own memory pool? - vztpv/clau-pool
                             
@@ -17,6 +17,6 @@
 
                             7. Parallel Deserialization? 
 
-                            8. json explorer? (vztpv/ClauJsonExplorer, vztpv/ClauJsonExplorer2)
+                            8. json explorer? (claujson/json-explorer, claujson/json-explorer2)
 
                             9. JavaScript??
