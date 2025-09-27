@@ -4,5 +4,3 @@
                             0. ClauScript with claujson
                             1. C++20~ 
                             2. OOP 
-                            3. golang
-                            4. Coroutine
