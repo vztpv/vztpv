@@ -3,5 +3,5 @@
     Now Interesting Topics : 
                         1. https://github.com/codeplea/tinyexpr
                         2. jq?
-                        3. image? 압축?
+                        3. data structure and algorithm...
                         
