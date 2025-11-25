@@ -1,8 +1,9 @@
     Interested in : C, C++, Text Parsing, Data Structure, Programming Language, and Simulation
     
     Now Interesting Topics : 
-                        0. object-oriented
-                        1. https://github.com/codeplea/tinyexpr
-                        2. jq?
-                        3. data structure and algorithm...
+                        1. to compress json with claujson   
+                        2. object-oriented
+                        3. https://github.com/codeplea/tinyexpr
+                        4. jq?
+                        5. data structure and algorithm...
                         
