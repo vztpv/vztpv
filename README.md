@@ -2,8 +2,9 @@
     
     Now Interesting Topics : 
                         1. to compress json
-                        2. object-oriented
-                        3. https://github.com/codeplea/tinyexpr
-                        4. jq?
+                        2. rust + claujson (simple version?)
+                        3. object-oriented
+                        4. https://github.com/codeplea/tinyexpr
                         5. data structure and algorithm...
+                        6. jq?
                         
