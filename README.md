@@ -1,7 +1,9 @@
     Interested in : C, C++, Text Parsing, Data Structure, Programming Language, and Simulation
     
     Now Interesting Topics : 
-                        1. to compress json
+                        1. claujson + std::map style cluajson::Object class?
+                            now, std::vector<std::pair<KEY, VALUE>> style...
+                            check first item?, when parsing?
                         2. rust + claujson (simple version?)
                         3. object-oriented
                         4. https://github.com/codeplea/tinyexpr
