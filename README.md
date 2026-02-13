@@ -6,4 +6,5 @@
                         3. object-oriented
                         4. data structure and algorithm...
                         5. DB?
+                        6. Optimization and Assembly?
                         
