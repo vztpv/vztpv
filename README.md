@@ -3,8 +3,8 @@
     Now Interesting Topics : 
                         1. claujson (+documentation?)
                         2. Parallel Scanning Test (need more testing.)
-                        3. object-oriented
-                        4. data structure and algorithm...
-                        5. DB?
-                        6. Optimization and Assembly?
-                        
+                        3. Pool Test (my own allocator? to use in my json parser)
+                        4. Learn C the Hard Way                         
+                        5. Object-Oriented, Data-Oriented?
+                        6. Assembly?
+                        7. DB?
