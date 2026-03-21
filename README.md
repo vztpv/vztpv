@@ -5,7 +5,7 @@
                         2. DB (SQL?)      
                         3. SQL-like Query for json data?
                         4. key(json_path?), value store?
-                        4. Parallel Scanning Test (need more testing.)
-                        5. Pool Test (my own allocator? to use in my json parser)
-                        6. Object-Oriented, Data-Oriented?
+                        5. Parallel Scanning Test (need more testing.)
+                        6. Pool Test (my own allocator? to use in my json parser)
+                        7. Object-Oriented, Data-Oriented?
                         
