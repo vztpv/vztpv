@@ -6,6 +6,7 @@
                         3. SQL-like Query for json data?
                         4. key(json_pointer?), value store?
                         5. Parallel Scanning Test (need more testing.)
-                        6. Pool Test (my own allocator? to use in my json parser)
-                        7. Object-Oriented, Data-Oriented?
+                        6. eu3 -> eu4 converter.
+                        7. Pool Test (my own allocator? to use in my json parser)
+                        8. Object-Oriented, Data-Oriented?
                         
