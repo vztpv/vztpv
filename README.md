@@ -8,5 +8,6 @@
                         5. Parallel Scanning Test (need more testing.)
                         6. eu3 -> eu4 converter.
                         7. Pool Test (my own allocator? to use in my json parser)
-                        8. Object-Oriented, Data-Oriented?
+                        8. edn-format?
+                        9. Object-Oriented, Data-Oriented?
                         
