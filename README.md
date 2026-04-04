@@ -3,7 +3,7 @@
     Now Interesting Topics : 
                         1. claujson (+documentation?, check simdjson version?)
                         2. DB (SQL?)      
-                        3. SQL-like Query for json data?
+                        3. SQL-like Query for json data?, jsonPath?
                         4. key(json_pointer?), value store?
                         5. Parallel Scanning Test (need more testing.)
                         6. eu3 -> eu4 converter.
