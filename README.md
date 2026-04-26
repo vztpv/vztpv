@@ -2,11 +2,12 @@
     
     Now Interesting Topics : 
                         1. claujson (+documentation?, check simdjson version?)
-                        2. DB (SQL?)      
-                        3. SQL-like Query for json data?, jsonPath?
-                        4. key(json_pointer?), value store?
-                        5. Parallel Scanning Test (need more testing.)
-                        6. todo list app?
-                        7. Pool Test (my own allocator? to use in my json parser)
-                        8. Object-Oriented, Data-Oriented?
+                        2. Parallel Scanning Test (need more testing.)
+                        3. DB (SQL?)      
+                        4. SQL-like Query for json data?
+                        5. jsonPath?
+                        6. key(json_pointer?) - value store?
+                        7. todo list app?
+                        8. Pool Test (my own allocator? to use in my json parser)
+                        9. Object-Oriented, Data-Oriented?
                         
