@@ -5,10 +5,6 @@
                         2. Parallel Scanning Test (need more testing.)
                         3. DB (SQL?) - my_db-test
                         4. SQL-like Query for json data?
-                        5. jsonPath?
-                        6. json + lisp?
-                        7. todo list app?
-                        8. Pool Test (my own allocator? to use in my json parser)
-                        9. EU3->EU4
-                        10. claujson with C#
+                        5. claujson with C#
+                        6. Pool Test (my own allocator? to use in my json parser)
                         
