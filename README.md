@@ -2,5 +2,8 @@
     
     Now Interesting Topics : 
                         1. json parser (+documentation?, check simdjson version?)
+                            a. parallel scanning using thread + simd. 
+                            b. parallel parsing using thread. 
+                            c. parallel stringify? using thread and simdjson`s api.
                         2. DB?         
                         3. todo-list?
