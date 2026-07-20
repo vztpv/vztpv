@@ -5,5 +5,6 @@
                             a. parallel scanning using thread + simd. 
                             b. parallel parsing using thread. 
                             c. parallel stringify? using thread and simdjson`s api.
-                        2. DB?         
-                        3. todo-list?
+                        2. Object-Oriented? 
+                        3. DB?
+                        4. todo-list?
