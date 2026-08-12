@@ -6,6 +6,7 @@
                             b. parallel parsing using thread. 
                             c. parallel stringify? using thread and simdjson`s api.
                             d. with Arena allocator?
-                        2. Object-Oriented? 
-                        3. DB?
-                        4. todo-list?
+                        2. LLM? 
+                        3. Object-Oriented? 
+                        4. DB?
+                        5. todo-list?
