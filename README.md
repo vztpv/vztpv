@@ -2,10 +2,10 @@
     
     Now Interesting Topics : 
                         1. json parser (+documentation?, check simdjson version?)
-                            a. parallel scanning using thread + simd. 
-                            b. parallel parsing using thread. 
-                            c. parallel stringify? using thread and simdjson`s api.
-                            d. with Arena allocator?
+                            a. parallel scanning using thread + simd. (Parallel-Scanning-Test)
+                            b. parallel parsing using thread. (claujson)
+                            c. parallel stringify? using thread and simdjson`s api. (claujson)
+                            d. with Arena allocator? (claujson2)
                         2. LLM? 
                         3. Object-Oriented? 
                         4. DB?
