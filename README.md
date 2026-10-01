@@ -6,7 +6,8 @@
                             b. parallel parsing using thread. (claujson)
                             c. parallel stringify? using thread and simdjson`s api. (claujson)
                             d. with Arena allocator? (claujson2)
-                        2. LLM? 
-                        3. Object-Oriented? 
-                        4. DB?
-                        5. regular expression
+                            e. parse with Streaming? (claujson)
+                            f. parallel parsing with (grammar-checking + ast-constructing)  (claujson2, incomplete)
+                        2. Object-Oriented? 
+                        3. DB?
+                        4. regular expression?
