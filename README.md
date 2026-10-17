@@ -11,4 +11,3 @@
                             g. jsonpath? - todo!
                         2. Object-Oriented? 
                         3. DB?
-                        4. regular expression?
