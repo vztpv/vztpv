@@ -1,10 +1,10 @@
     Interested in : C, C++, Text Parsing, Data Structure, Programming Language, and Simulation
     
     Now Interesting Topics : 
-                        1. json parser (+documentation?, check simdjson version?)
+                        1. json parser (claujson, claujson2, check simdjson version?)
                             a. parallel scanning using thread + simd. (Parallel-Scanning-Test)
-                            b. parallel parsing using thread. (claujson)
-                            c. parallel stringify? using thread and simdjson`s api. (claujson)
+                            b. parallel parsing using thread. 
+                            c. parallel stringify? using thread and simdjson`s api. 
                             d. with Arena allocator? (claujson2)
                             e. parse with Streaming? 
                             f. parallel parsing with (grammar-checking + ast-constructing) 
