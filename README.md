@@ -12,6 +12,4 @@
                             h. minify? - todo!
                             i. sax? - todo!
                             j. no try~catch? - todo!
-                        2. Object-Oriented? 
-                        3. DB?
-                        4. C#?
+                        2. json-script
