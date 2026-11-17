@@ -12,4 +12,4 @@
                             h. minify? - todo!
                             i. sax? - todo!
                             j. no try~catch? - todo!
-                        2. json-script
+                        2. clauscript with claujson
